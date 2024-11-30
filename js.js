@@ -1,52 +1,52 @@
-// let obj1={
-//     id:1,
-//     name:"Pavani",
-//     state:"ap",
-//     details:function(){
-//         console.log(`am a person with id no ${this.id} and name ${this.name} and from state ${this.state}`)
-//     }
-// }
-// console.log(obj1.details())
+let obj1={
+    id:1,
+    name:"Pavani",
+    state:"ap",
+    details:function(){
+        console.log(`am a person with id no ${this.id} and name ${this.name} and from state ${this.state}`)
+    }
+}
+console.log(obj1.details())
 
-// let obj2={
-//     id:2,
-//     name:"Jay",
-//     city:"guntur",
-//     details:function(){
-//         console.log(`am a person with id no ${this.id} and name ${this.name} and from city ${this.city}`)
-//     }
-// }
-// console.log(obj2.details())
+let obj2={
+    id:2,
+    name:"Jay",
+    city:"guntur",
+    details:function(){
+        console.log(`am a person with id no ${this.id} and name ${this.name} and from city ${this.city}`)
+    }
+}
+console.log(obj2.details())
 
-// let obj3={
-//     id:3,
-//     name:"Gopi",
-//     country:"USA",
-//     details:function(){
-//         console.log(`am a person with id no ${this.id} and name ${this.name} and from country ${this.country}`)
-//     }
-// }
-// console.log(obj3.details())
+let obj3={
+    id:3,
+    name:"Gopi",
+    country:"USA",
+    details:function(){
+        console.log(`am a person with id no ${this.id} and name ${this.name} and from country ${this.country}`)
+    }
+}
+console.log(obj3.details())
 
-// let obj4={
-//     id:4,
-//     name:"Chinni",
-//     state:"Telangana",
-//     details:function(){
-//         console.log(`am a person with id no ${this.id} and name ${this.name} and from state ${this.state}`)
-//     }
-// }
-// console.log(obj4.details())
+let obj4={
+    id:4,
+    name:"Chinni",
+    state:"Telangana",
+    details:function(){
+        console.log(`am a person with id no ${this.id} and name ${this.name} and from state ${this.state}`)
+    }
+}
+console.log(obj4.details())
 
-// let obj5={
-//     id:5,
-//     name:"Mahesh",
-//     country:"Uk",
-//     details:function(){
-//         console.log(`am a person with id no ${this.id} and name ${this.name} and from country ${this.country}`)
-//     }
-// }
-// console.log(obj5.details())
+let obj5={
+    id:5,
+    name:"Mahesh",
+    country:"Uk",
+    details:function(){
+        console.log(`am a person with id no ${this.id} and name ${this.name} and from country ${this.country}`)
+    }
+}
+console.log(obj5.details())
 
 let obj6={
         id:6,
